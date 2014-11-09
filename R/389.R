@@ -1,0 +1,44 @@
+
+tot = c()
+for (x in 1:10000) {
+  t = sample(1:4,1)
+  c = sum(sample(1:6,t,T))
+  o = sum(sample(1:8,c,T))
+  d = sum(sample(1:12,o,T))
+  i = sum(sample(1:20,d,T))
+  tot = c(tot, t+c+o+d+i)
+}
+
+
+tot = c()
+for (x in 1:100000) {
+  t = sample(1:4,1)
+  c = sample(1:6,1)
+  tot = c(tot, t*c)
+}
+
+
+tot2 = c()
+for (x in 1:100000) {
+  t = sample(1:4,1)
+  c = sum(sample(1:6,t,T))
+  tot2 = c(tot2, c)
+}
+
+
+tot3 = c()
+for (x in 1:100000) {
+  t = sample(1:2,1)
+  c = sample(1:2,1)
+  tot3 = c(tot3, t*c)
+}
+
+
+tot4 = c()
+for (x in 1:100000) {
+  t = sample(1:2,1)
+  c = sum(sample(1:2,t,T))
+  tot4 = c(tot4, c)
+}
+
+

@@ -1,0 +1,67 @@
+suits=c("S","H","D","C")
+sOrdr=1:4
+sZero=rep(0,4)
+#----------------------------------------------
+denm=c("7","8","9","T","J","Q","K","A")
+Ordr=7:14
+Prio=c(7,8,13,11,14,9,10,12)
+Vals=c(0,0,2,1,3,0,0,1)
+#----------------------------------------------
+value=function(j,a=sOrdr,b=Ordr){
+	s=substring(j,1,1)
+	n=substring(j,2,nchar(j))
+	val=a[which(suits==s)]*100
+	val=val+b[which(denm==n)]
+	return(val)}
+#----------------------------------------------
+pack=c()
+for(i in suits){
+	for(j in denm){ 
+		pack=c(pack,paste(i,j,sep=""))}}
+#----------------------------------------------
+arrange=function(cards){
+	indx=1:8
+	ansr=data.frame(indx)
+	for(i in 1:4){
+		set=cards[,i]
+		p=sapply(set,value)
+		ansr[paste("P",i,sep="")]=(set[order(p)])}
+	return(ansr[,2:5])}
+#----------------------------------------------
+shuffle=function(){
+	hold=sample(pack,32)
+	indx=1:8
+	ansr=data.frame(indx)
+	for(i in 1:4){
+		ansr[paste("P",i,sep="")]=hold[indx];
+		indx=8+indx}
+	return(ansr[,2:5])}
+#----------------------------------------------
+score=function(cards){
+	result=data.frame(nr=1:3)
+	for(set in cards){
+		ans=c(
+		ordr=sum(sapply(set,value,sZero,Ordr)),
+		prio=sum(sapply(set,value,sZero,Prio)),
+		vals=sum(sapply(set,value,sZero,Vals)))
+		result=cbind(result,ans)}
+	names(result)=c("nr",1:4)
+	return(result[,2:5])}
+#----------------------------------------------
+cards=shuffle()
+cards[1:4,]
+a=score(cards[1:4,]);a
+cards
+arrange(cards)
+b=score(cards);b
+#----------------------------------------------
+#TBD
+#gameStack
+#?suitPresent
+#?sureTrick
+#?cntSuit
+#?bestMove
+#?openTrump
+#?dummyMove
+#
+#?bidHowmuch

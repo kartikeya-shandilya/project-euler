@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//IETF//DTD HTML//EN">
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>minlp options</title>
+  </head>
+
+  <body bgcolor="#ffffff">
+
+  
+      <h2>minlp options</h2>
+
+
+<pre>
+branchrule            Branching Variable Selection:
+                        1 = maximum fractional variable
+		        2 = strong branching
+		        3 = approximate strong branching
+		        4 = pseudo-cost branching
+		        5 = reliability branching
+		        6 = approximate reliability branching [Default]
+		        0 = select branching variable at random
+eps                   Tolerance for SQP solver
+fopt                  Upper bound on objective value (min only)
+infty                 A large number (1E20)
+iprint                synonym for "outlev"
+kmax                  Dimension of null-space (bqpd) default 1000
+maxf                  Maximum filter length
+maxiter               Maximum number of iterations
+maxnodes              maximum number of nodes [default 1000000]
+maxtime               maximum CPU time [default 36000s]
+miopttol              Integer optimality tolerance
+mlp                   Maximum level for degeneracy (bqpd)
+mxlws                 INTEGER workspace increment (default 100000)
+mxws                  REAL workspace increment (default 100000)
+nodeselect            Node selection when backtracking:
+ 		        1 = LIFO stack
+		        2 = best lower bound
+		        3 = best expected bound
+		        4 = best expected solution [Default]
+noinfnodes            Number ofiinfeasible nodes before re-ordering;  0 -&gt; always re-order
+objno                 Objective number: 1 = first, 0 = none
+outlev                Print level (0=silent,	3=verbose)
+plconpri              priority for constraint piecewise-linear terms
+plobjpri              priority for objective piecewise-linear terms
+pname                 Problem name (default NLPproblem)
+qpiters               Number of QP iterations for approx. strong branching [default=1]
+reliabilitythreshold  Threshold for reliability branching [default=5]
+rho                   Initial trust region size
+soldump               Solution Dump Frequency [s CPU time]
+stackmax              Maximum size of stack for branch-and-bound
+timing                whether to time evaluations (1 = yes)
+tt                    Parameter for upper bound on filter
+ubd                   Parameter for upper bound on filter
+wantsol               solution report without -AMPL: sum of
+		       1 = write .sol file
+		       2 = print primal variable values
+		       4 = print dual variable values
+		       8 = do not print solution message
+
+</pre>
+
+To change the default options you need to submit a command file 
+to NEOS together with your job. For example, by including the 
+following line in the command file, iprint and stackmax are changed.
+
+<pre>option minlp_options "iprint=2 stackmax=1000";
+</pre>
+
+The command file must contain the ampl command 
+
+<pre>solve;
+</pre>
+
+it may contain other valid ampl commands.
+
+      <hr>
+      <address>
+	<font size="-1">
+	  Maintained by <em> Sven Leyffer</em><br>
+	  Email: <a href="mailto:leyffer@mcs.anl.gov"><em> 
+	      leyffer@mcs.anl.gov</em> </a><br>
+	  Last modified: <em> 05 August, 2001 </em><br>
+	</font>
+      </address>
+
+    
+
+</body></html>

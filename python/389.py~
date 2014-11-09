@@ -1,0 +1,15 @@
+
+varn = 0
+mean = (2+4+6)/2.0
+
+for t in xrange(1,4+1):
+  totl = 0
+  for c in xrange(1,6+1):
+    totl = t+c
+  varn = varn + (totl-mean)**2
+
+print mean
+print varn
+print varn/(4*6)
+print "="*30
+

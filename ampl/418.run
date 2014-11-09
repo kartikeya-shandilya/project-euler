@@ -1,0 +1,10 @@
+
+#option gurobi_options "outlev 1 logfreq 5 intfeastol 1e-09 opttol 1e-09 mipgap 0 cuts 2";
+
+solve;
+display ratio;
+display a_coeff, c_coeff;
+
+
+#option knitro_options "mip_maxnodes=10000000 mip_maxsolves=10000000";
+
