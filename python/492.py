@@ -56,6 +56,6 @@ def function_B(a, b, c):
 		print ans
 	return ans
 
-print function_B(10**9,10**2,10**3)
+print function_B(10**9,10**3,10**3)
 
 
