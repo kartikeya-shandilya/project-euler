@@ -1,5 +1,5 @@
 #!/usr/bin/python
-f=open('/public/skartik/training/perl/pe/python/102.txt','r')
+f=open('102.txt','r')
 
 mat=[]
 count=0

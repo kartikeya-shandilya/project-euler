@@ -16,5 +16,5 @@ def sieve(n):
 	primes=[2,3]+[(6*((x+1)/2)+((-1)**(x))) for x in xrange(1,len(sieve)) if sieve[x]]
 	return primes
 
-print len(sieve(20000000))
+#print len(sieve(20000000))
 

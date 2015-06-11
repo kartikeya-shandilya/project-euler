@@ -92,8 +92,9 @@ def next_prime(start):
 		if (6*mult - 1) > sqrt(current):
 			yield current
 
+"""
 plist = []
-N = 10**7
+N = 2*10**7
 sqrt_N = sqrt(N)
 slowpr = next_prime(1)
 while True:
@@ -114,14 +115,25 @@ def fast_prime(start):
 			yield current
 		current += 1
 
-primes=fast_prime(1)
+primes=fast_prime(10**7)
 result = 0
 while True:
 	p = primes.next()
 	#print p
-	if p > 10**7:
+	if p == plist[-1]:
 		break
-	#result += samclock(p)
+	result += samclock(p)
 	#print p, result
+"""
 
+sieve = __import__('231_sieve')
+primes = sieve.sieve(150)
+result = 0
+for p in primes:
+	if p>100:
+		s = samclock(p)
+		m = maxclock(p)
+		print p, s, m
+		result += (s-m)
 print result
+
