@@ -1,16 +1,18 @@
 
-seqsum(x,y)=y*(y+1)/2-x*(x+1)/2
+ulp = (x,y) -> { floor(y*y/x)-(x+1)+(y-1)-ceil(x*x/y) };
+cpcnt = (x,y,n) -> { floor(y*y/x)-floor(n/x)+y+1-floor(n/y)-if(n<x*y,2) };
 
-mx=101; b=2; sm=0
-forprime(i=3,mx,\
-	a=b;b=i;\
-	sm+=a*seqsum(a-1,b^2\a)+b*seqsum(a^2\b,b)-a*b);
-sm
+i=2; res=0; mxnum=37;
+forprime(j=nextprime(i+1),37,res+=ulp(i,j);i=j);
+res = res-cpcnt(31,37,1000);
+print(res);
 
-sm=0
-for(i=4,10201,\
-	lps=ceil(sqrt(i));\
-	while(1,if(isprime(lps),break,lps-=1));\
-	ups=nextprime(ceil(sqrt(i)));\
-	sm+=if((i%lps==0||i%ups==0)&&i%(ups*lps),i));
 
+arsum = (x,y) -> { y*(y+1)/2 - x*(x+1)/2 };
+ulsum = (x,y) -> { x*arsum(x,floor(y*y/x))+y*arsum(floor(x*x/y),y-1)-2*x*y };
+cpsum = (x,y,n) -> { x*arsum(floor(n/x),floor(y*y/x))+y*arsum(floor(n/y),y-1)-if(n<=x*y,2*x*y) };
+
+i=2; res=0; mxnum=1000003;
+forprime(j=nextprime(i+1),mxnum,res+=ulsum(i,j);i=j);
+res = res-cpsum(999983,mxnum,999966663333);
+print(res);
