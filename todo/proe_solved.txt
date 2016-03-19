@@ -699,681 +699,814 @@ ribgaran
 2 days
 201 posts
 101	Optimum polynomial	
-6427
+7111
 Solved
 		
-FlankMe
-5 days
+IamLupo
+1 week
 200 posts
 102	Triangle containment	
-13238
+14508
 Solved
 		
-chasklu
-5 days
+platt1rk
+4 days
 201 posts
 103	Special subset sums: optimum	
-4617
+5042
 Solved
 		
-visskiss
-2 weeks
-173 posts
+Corrupt0r
+3 weeks
+184 posts
 104	Pandigital Fibonacci ends	
-10082
+10955
 Solved
 		
-dcterr
+Totoshka25
 1 week
 200 posts
 105	Special subset sums: testing	
-4672
+5102
 Solved
 		
-jaxl
-3 days
-181 posts
+flesmes
+2 weeks
+195 posts
 106	Special subset sums: meta-testing	
-3715
+4057
 Solved
 		
-Patriota
-5 days
-186 posts
+DirkyJerky
+3 weeks
+198 posts
 107	Minimal network	
-6672
+7264
 Solved
 		
-LannisterImp
-4 days
+dustingibson
+20 hours
 200 posts
 108	Diophantine reciprocals I	
-8039
+8657
 Solved
 		
-HappyLarry
-4 days
+DirkyJerky
+3 weeks
 201 posts
 109	Darts	
-4800
+5231
 Solved
 		
-wakkadojo
-5 days
+DirkyJerky
+3 weeks
 201 posts
 110	Diophantine reciprocals II	
-5044
+5425
 Solved
 		
-HappyLarry
-4 days
+Rok Kralj
+5 days
+200 posts
+111	Primes with runs	
+4716
+Solved
+		
+Rok Kralj
+3 days
 200 posts
 112	Bouncy numbers	
-15057
+16430
 Solved
 		
-bhsiao
-5 days
+Vedang Mehta
+1 week
 201 posts
 113	Non-bouncy numbers	
-6985
+7527
 Solved
 		
-eltong
-4 days
+flesmes
+2 weeks
 200 posts
 114	Counting block combinations I	
-6578
+7177
 Solved
 		
-sylvester
-17 hours
+DirkyJerky
+3 weeks
 201 posts
 115	Counting block combinations II	
-6045
+6572
 Solved
 		
-hacatu
-6 weeks
+DirkyJerky
+3 weeks
 201 posts
 116	Red, green or blue tiles	
-7305
+8016
 Solved
 		
-mmaximus
-5 hours
+Pranav Mathur
+2 weeks
 200 posts
 117	Red, green, and blue tiles	
-6716
+7351
 Solved
 		
-hacatu
-6 weeks
-200 posts
-118	Pandigital prime sets	
-4001
-Solved
-		
-rlipsett
-2 weeks
-197 posts
-119	Digit power sum	
-7474
-Solved
-		
-m0nad
-4 weeks
-200 posts
-120	Square remainders	
-8646
-Solved
-		
-eltong
-4 days
-200 posts
-121	Disc game prize fund	
-5929
-Solved
-		
-mmaximus
-4 hours
-200 posts
-122	Efficient exponentiation	
-4614
-Solved
-		
-hacatu
-6 weeks
-200 posts
-123	Prime square remainders	
-7292
-Solved
-		
-Bondy3
+DirkyJerky
 3 weeks
 200 posts
-124	Ordered radicals	
-8886
+118	Pandigital prime sets	
+4408
 Solved
 		
-yanni
+DirkyJerky
+2 weeks
+200 posts
+119	Digit power sum	
+8160
+Solved
+		
+dave3344
+3 days
+200 posts
+120	Square remainders	
+9385
+Solved
+		
+Pranav Mathur
+2 weeks
+200 posts
+121	Disc game prize fund	
+6468
+Solved
+		
+elvischen
+2 weeks
+200 posts
+122	Efficient exponentiation	
+5042
+Solved
+		
+DirkyJerky
+2 weeks
+200 posts
+123	Prime square remainders	
+7876
+Solved
+		
+DirkyJerky
+2 weeks
+200 posts
+124	Ordered radicals	
+9581
+Solved
+		
+DirkyJerky
 2 weeks
 201 posts
 125	Palindromic sums	
-8490
+9226
 Solved
 		
-Bondy3
-1 week
+ozgRzgr
+2 weeks
 200 posts
-131	Prime cube partnership	
-4504
+129	Repunit divisibility	
+4127
 Solved
 		
-rlipsett
-1 week
-196 posts
-132	Large repunit factors	
-3886
-Solved
-		
-Wildman
-1 day
-166 posts
-134	Prime pair connection	
-4292
-Solved
-		
-pute
-3 days
-194 posts
-135	Same differences	
-3832
-Solved
-		
-wakkadojo
-3 days
+DirkyJerky
+2 weeks
 171 posts
-137	Fibonacci golden nuggets	
-3230
+130	Composites with prime repunit property	
+3879
 Solved
 		
-manchi.mp4
-10 weeks
-176 posts
-138	Special isosceles triangles	
-3546
-Solved
-		
-orthoplex
+DirkyJerky
 2 weeks
-200 posts
-140	Modified Fibonacci golden nuggets	
-2525
-Solved
-		
-Glaspearl
-14 weeks
 166 posts
-144	Investigating multiple reflections of a laser beam	
-3645
+131	Prime cube partnership	
+4883
 Solved
 		
-pj6444
-3 days
-200 posts
-145	How many reversible numbers are there below one-billion?	
-10148
-Solved
-		
-yanni
-6 days
-200 posts
-146	Investigating a Prime Pattern	
-3018
-Solved
-		
-Bassam Al Hussein
-3 days
-175 posts
-151	Paper sheets of standard sizes: an expected-value problem	
-3303
-Solved
-		
-fdemichelis
-2 weeks
-191 posts
-162	Hexadecimal numbers	
-3445
-Solved
-		
-LannisterImp
-3 weeks
-199 posts
-164	Numbers for which no three consecutive digits have a sum greater than a given value	
-3639
-Solved
-		
-alephalpha
-2 days
-196 posts
-169	Exploring the number of different ways a number can be expressed as a sum of powers of 2	
-3068
-Solved
-		
-grovert
-3 weeks
+DirkyJerky
+1 week
 201 posts
-172	Investigating numbers with few repeated digits	
-2333
+132	Large repunit factors	
+4191
 Solved
 		
-kenan
-3 weeks
-170 posts
-173	Using up to one million tiles how many different "hollow" square laminae can be formed?	
-5888
+DirkyJerky
+1 week
+177 posts
+133	Repunit nonfactors	
+3603
 Solved
 		
-josepmfrancino
-19 hours
+S_Mano
+2 weeks
+134 posts
+134	Prime pair connection	
+4622
+Solved
+		
+DirkyJerky
+1 week
 200 posts
-174	Counting the number of "hollow" square laminae that can form one, two, three, ... distinct arrangements	
-3842
+135	Same differences	
+4167
 Solved
 		
-TheHive
-3 days
-188 posts
-178	Step Numbers	
-2101
+DirkyJerky
+6 days
+183 posts
+137	Fibonacci golden nuggets	
+3505
 Solved
 		
-wakkadojo
-22 weeks
-159 posts
-179	Consecutive positive divisors	
-7319
+DirkyJerky
+4 days
+189 posts
+138	Special isosceles triangles	
+3823
 Solved
 		
-dgirl515
-2 days
-200 posts
-183	Maximum product of parts	
-3070
-Solved
-		
-AW
-16 hours
-163 posts
-185	Number Mind	
-1916
-Solved
-		
-kenan
-5 weeks
-144 posts
-187	Semiprimes	
-7186
-Solved
-		
-Sacchan
+DirkyJerky
 4 days
 200 posts
-188	The hyperexponentiation of a number	
-4230
+140	Modified Fibonacci golden nuggets	
+2732
 Solved
 		
-mmaximus
-1 week
-200 posts
-190	Maximising a weighted product	
-2658
-Solved
-		
-aziiri
-4 weeks
-157 posts
-191	Prize Strings	
-4608
-Solved
-		
-gle_blanc
-3 weeks
-200 posts
-192	Best Approximations	
-928
-Solved
-		
-nicolas.patrois
-15 weeks
-97 posts
-193	Squarefree Numbers	
-1966
-Solved
-		
-grovert
-2 weeks
-147 posts
-197	Investigating the behaviour of a recursively defined sequence	
-3350
-Solved
-		
-N00b
-8 weeks
-159 posts
-199	Iterative Circle Packing	
-1130
-Solved
-		
-Unern
-2 weeks
-122 posts
-203	Squarefree Binomial Coefficients	
-5917
-Solved
-		
-Bondy3
-1 week
-200 posts
-204	Generalised Hamming Numbers	
-4796
-Solved
-		
-alephalpha
-1 week
-200 posts
-205	Dice Game	
-9392
-Solved
-		
-lpp
-6 days
-201 posts
-206	Concealed Square	
-13932
-Solved
-		
-robitex
-5 days
-200 posts
-207	Integer partition equations	
-3153
-Solved
-		
-wakkadojo
-5 days
-157 posts
-209	Circular Logic	
-1635
-Solved
-		
-Unern
-2 weeks
-110 posts
-211	Divisor Square Sum	
-2575
-Solved
-		
-wakkadojo
-2 days
-186 posts
-213	Flea Circus	
-1474
-Solved
-		
-DrBob
-1 week
-130 posts
-214	Totient Chains	
-3465
+S_Mano
+4 days
+178 posts
+144	Investigating multiple reflections of a laser beam	
+4009
 Solved
 		
 Efemena
-6 hours
-171 posts
-215	Crack-free Walls	
-2404
+10 weeks
+199 posts
+145	How many reversible numbers are there below one-billion?	
+11081
 Solved
 		
-jjhangu2
-2 days
-149 posts
-216	Investigating the primality of numbers of the form 2n2-1	
-2595
-Solved
-		
-T0m2357
-4 weeks
-156 posts
-221	Alexandrian Integers	
-1341
-Solved
-		
-Anand Hariharan
+Vedang Mehta
 1 week
-119 posts
-231	The prime factorisation of binomial coefficients	
-3618
+200 posts
+146	Investigating a Prime Pattern	
+3278
 Solved
 		
-ghostrider77
+yasuabe1984
+15 weeks
+185 posts
+149	Searching for a maximum-sum subsequence	
+3189
+Solved
+		
+Yrkill
+3 weeks
+157 posts
+151	Paper sheets of standard sizes: an expected-value problem	
+3572
+Solved
+		
+sO3SrLCr4Rqb00Zr...
 6 weeks
-167 posts
-235	An Arithmetic Geometric sequence	
-3525
+200 posts
+156	Counting Digits	
+1490
 Solved
 		
-LEADER
+kotman12
+4 weeks
+118 posts
+159	Digital root sums of factorisations	
+2142
+Solved
+		
+rakeshsilswal
+8 weeks
+138 posts
+162	Hexadecimal numbers	
+3708
+Solved
+		
+dcterr
+2 days
+200 posts
+164	Numbers for which no three consecutive digits have a sum greater than a given value	
+3910
+Solved
+		
+rakeshsilswal
+4 weeks
+200 posts
+167	Investigating Ulam sequences	
+1084
+Solved
+		
+bukebuer
+29 weeks
+93 posts
+168	Number Rotations	
+1738
+Solved
+		
+dgokman
+1 week
+130 posts
+169	Exploring the number of different ways a number can be expressed as a sum of powers of 2	
+3337
+Solved
+		
+IzidoroBaltazar
+1 week
+201 posts
+172	Investigating numbers with few repeated digits	
+2519
+Solved
+		
+pcmendes
 6 weeks
-167 posts
-243	Resilience	
-5827
+181 posts
+173	Using up to one million tiles how many different "hollow" square laminae can be formed?	
+6312
 Solved
 		
-grovert
+S_Mano
+1 week
+200 posts
+174	Counting the number of "hollow" square laminae that can form one, two, three, ... distinct arrangements	
+4118
+Solved
+		
+Rok Kralj
+4 days
+200 posts
+178	Step Numbers	
+2265
+Solved
+		
+yasuabe1984
+13 weeks
+163 posts
+179	Consecutive positive divisors	
+7867
+Solved
+		
+wcheung.math
+5 days
+200 posts
+183	Maximum product of parts	
+3269
+Solved
+		
+hacatu
+12 weeks
+169 posts
+185	Number Mind	
+2058
+Solved
+		
+polutropon
+6 weeks
+157 posts
+187	Semiprimes	
+7778
+Solved
+		
+wcheung.math
+5 days
+200 posts
+188	The hyperexponentiation of a number	
+4512
+Solved
+		
+wcheung.math
+1 week
+200 posts
+190	Maximising a weighted product	
+2834
+Solved
+		
+Lazy Smurf
+9 weeks
+167 posts
+191	Prize Strings	
+4941
+Solved
+		
+jachymb
+11 weeks
+200 posts
+192	Best Approximations	
+996
+Solved
+		
+bukebuer
+26 weeks
+103 posts
+193	Squarefree Numbers	
+2119
+Solved
+		
+KuribohG
+4 weeks
+158 posts
+197	Investigating the behaviour of a recursively defined sequence	
+3548
+Solved
+		
+prune
+11 weeks
+167 posts
+199	Iterative Circle Packing	
+1212
+Solved
+		
+Reiner Martin
+6 weeks
+124 posts
+203	Squarefree Binomial Coefficients	
+6376
+Solved
+		
+wcheung.math
 3 weeks
 200 posts
+204	Generalised Hamming Numbers	
+5131
+Solved
+		
+cwkoo
+9 weeks
+200 posts
+205	Dice Game	
+10164
+Solved
+		
+wcheung.math
+3 weeks
+200 posts
+206	Concealed Square	
+15481
+Solved
+		
+cyy
+5 days
+200 posts
+207	Integer partition equations	
+3349
+Solved
+		
+wcheung.math
+3 weeks
+165 posts
+209	Circular Logic	
+1737
+Solved
+		
+IamPoosha
+7 weeks
+113 posts
+211	Divisor Square Sum	
+2763
+Solved
+		
+dcterr
+6 hours
+194 posts
+213	Flea Circus	
+1587
+Solved
+		
+P_P
+4 weeks
+133 posts
+214	Totient Chains	
+3688
+Solved
+		
+reio.euler
+8 weeks
+176 posts
+215	Crack-free Walls	
+2567
+Solved
+		
+Rok Kralj
+1 week
+163 posts
+216	Investigating the primality of numbers of the form 2n2-1	
+2782
+Solved
+		
+Svartskagg
+1 day
+166 posts
+217	Balanced Numbers	
+999
+Solved
+		
+ktheis
+2 weeks
+88 posts
+221	Alexandrian Integers	
+1418
+Solved
+		
+demongolem
+12 weeks
+123 posts
+231	The prime factorisation of binomial coefficients	
+3865
+Solved
+		
+rjhunjhunwala
+3 days
+179 posts
+234	Semidivisible numbers	
+2383
+Solved
+		
+MANGO123
+7 weeks
+158 posts
+235	An Arithmetic Geometric sequence	
+3699
+Solved
+		
+wcheung.math
+2 weeks
+176 posts
+243	Resilience	
+6397
+Solved
+		
+hikingpete
+1 week
+200 posts
 247	Squares under a hyperbola	
-967
+1019
 Solved
 		
 wakkadojo
-4 days
+40 weeks
 106 posts
 258	A lagged Fibonacci sequence	
-913
+978
 Solved
 		
-Unruhe
-1 week
-100 posts
+j123
+11 weeks
+104 posts
 265	Binary Circles	
-2750
+2945
 Solved
 		
-N00b
-3 weeks
-165 posts
+AW
+5 weeks
+173 posts
 267	Billionaire	
-2153
+2307
 Solved
 		
-blankspace
-2 weeks
-141 posts
+Spdbritt
+1 week
+148 posts
 274	Divisibility Multipliers	
-960
-Solved
-		
-leghorn
-7 weeks
-100 posts
-277	A Modified Collatz sequence	
-1981
-Solved
-		
-rlipsett
-8 weeks
-153 posts
-278	Linear Combinations of Semiprimes	
-609
+1011
 Solved
 		
 Panphobia
-4 weeks
-72 posts
-285	Pythagorean odds	
-754
-Solved
-		
-rathmann
-12 weeks
-79 posts
-286	Scoring probabilities	
-1307
-Solved
-		
-Sabda PS
 10 weeks
-120 posts
-291	Panaitopol Primes	
-798
+101 posts
+277	A Modified Collatz sequence	
+2130
 Solved
 		
-josepmfrancino
-3 weeks
-84 posts
-296	Angular Bisector and Tangent	
-382
+anumoshsad
+23 weeks
+159 posts
+278	Linear Combinations of Semiprimes	
+653
 Solved
 		
-Lukasz16a
-14 weeks
-45 posts
-297	Zeckendorf Representation	
-1794
+yasuabe1984
+11 weeks
+76 posts
+285	Pythagorean odds	
+789
 Solved
 		
-saharsh
-1 week
-149 posts
-301	Nim	
-3265
+dcterr
+5 days
+81 posts
+286	Scoring probabilities	
+1420
 Solved
 		
-thorfax
-3 weeks
-167 posts
-304	Primonacci	
-1224
-Solved
-		
-manchi.mp4
-8 weeks
-141 posts
-317	Firecracker	
-1473
-Solved
-		
-Valar_Dev
-6 weeks
-124 posts
-321	Swapping Counters	
-925
-Solved
-		
-Georg
-2 weeks
-114 posts
-323	Bitwise-OR operations on random integers	
-1893
-Solved
-		
-guissmo
-9 hours
-157 posts
-343	Fractional Sequences	
-828
-Solved
-		
-fewbutripe
-7 weeks
-83 posts
-345	Matrix Sum	
-2463
-Solved
-		
-jaxl
-2 days
-196 posts
-346	Strong Repunits	
-1674
-Solved
-		
-jbum
-1 week
-143 posts
-347	Largest integer divisible by two primes	
-1813
-Solved
-		
-kenan
-2 weeks
-139 posts
-348	Sum of a square and a cube	
-1382
-Solved
-		
-manchi.mp4
+jdelany
 5 weeks
-127 posts
-349	Langton's ant	
-1051
+126 posts
+291	Panaitopol Primes	
+870
 Solved
 		
-Bondy3
-4 days
-85 posts
-357	Prime generating integers	
-3154
+yasuabe1984
+11 weeks
+95 posts
+296	Angular Bisector and Tangent	
+391
 Solved
 		
-MrYingster
-2 days
-198 posts
-371	Licence plates	
-806
-Solved
-		
-timday
-8 weeks
-79 posts
-381	(prime-k) factorial	
-1895
-Solved
-		
-art_libra
-2 weeks
-147 posts
-387	Harshad Numbers	
-1431
-Solved
-		
-Sandu7ip
+bukebuer
 1 week
-119 posts
+46 posts
+297	Zeckendorf Representation	
+1925
+Solved
+		
+Efemena
+11 weeks
+153 posts
+301	Nim	
+3747
+Solved
+		
+brainiac1530
+2 weeks
+179 posts
+303	Multiples with small digits	
+2420
+Solved
+		
+wcheung.math
+1 week
+168 posts
+304	Primonacci	
+1369
+Solved
+		
+Oscar da Grouch
+6 weeks
+148 posts
+317	Firecracker	
+1623
+Solved
+		
+alagi
+11 weeks
+128 posts
+321	Swapping Counters	
+1050
+Solved
+		
+oregon8
+4 weeks
+122 posts
+323	Bitwise-OR operations on random integers	
+2202
+Solved
+		
+HEKTO
+1 week
+164 posts
+336	Maximix Arrangements	
+1252
+Solved
+		
+gclements
+6 weeks
+101 posts
+343	Fractional Sequences	
+904
+Solved
+		
+jarlsberg
+15 weeks
+87 posts
+345	Matrix Sum	
+2937
+Solved
+		
+Knight-erraunt
+2 weeks
+197 posts
+346	Strong Repunits	
+2103
+Solved
+		
+wcheung.math
+3 weeks
+164 posts
+347	Largest integer divisible by two primes	
+2247
+Solved
+		
+Vedang Mehta
+1 week
+153 posts
+348	Sum of a square and a cube	
+1665
+Solved
+		
+QuasiChameleon
+5 weeks
+135 posts
+349	Langton's ant	
+1184
+Solved
+		
+Rok Kralj
+2 weeks
+93 posts
+357	Prime generating integers	
+3975
+Solved
+		
+Vedang Mehta
+1 week
+198 posts
+363	Bézier Curves	
+651
+Solved
+		
+lvk88
+13 weeks
+58 posts
+371	Licence plates	
+941
+Solved
+		
+oleglyamin
+5 days
+86 posts
+381	(prime-k) factorial	
+2285
+Solved
+		
+DaveNo1
+1 day
+166 posts
+386	Maximum length of an antichain	
+450
+Solved
+		
+demongolem
+13 weeks
+45 posts
+387	Harshad Numbers	
+1983
+Solved
+		
+Rok Kralj
+19 minutes
+147 posts
 392	Enmeshed unit circle	
-354
+407
 Solved
 		
-znezic
-4 weeks
-48 posts
+mmaximus
+7 weeks
+51 posts
 493	Under The Rainbow	
-1243
+1972
 Solved
 		
-tehsp
+jamarcus
+1 week
+130 posts
+500	Problem 500!!!	
+1582
+Solved
+		
+wcheung.math
+1 week
+128 posts
+549	Divisibility of factorials	
+317
+Solved
+		
+square1001
+13 hours
+34 posts
+548	Gozinta Chains	
+179
+Solved
+		
+albert
+1 week
+30 posts
+545	Faulhaber's Formulas	
+198
+Solved
+		
+KuribohG
 4 weeks
-109 posts
+29 posts
