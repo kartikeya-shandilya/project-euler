@@ -13,4 +13,3 @@ d = OrderedDict(sorted(d.items()))
 
 print sum([i for i in d.keys()[:5]])
 
-

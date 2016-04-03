@@ -33,4 +33,3 @@ perms = permutations(range(1,10))
 for i in xrange(362880):
 	segment_primes(perms.next())
 
-
